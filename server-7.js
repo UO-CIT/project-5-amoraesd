@@ -35,7 +35,7 @@ app.get('/telnums', (req, res) => {
     success: 'true',
     message: 'tel numbers retrieved successfully',
     tel_nums: db
-  })
+  });
 });
 
 // endpoint to add a tel number
