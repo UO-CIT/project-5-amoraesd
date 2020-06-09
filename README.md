@@ -1,5 +1,7 @@
 # Project 5 Repo
 
+[CIT Profile Page](https://amoraesd.github.io/)
+
 ## 281 Project 5 Learning Outcomes
 
 - Build a RESTful Web Service that stores telephone numbers in a MongoDB (a CRUD app)
@@ -22,9 +24,7 @@
 -   Use jQuery to post AJAX requests asynchronously
 -   Use the Postman app to test API requests/responses
 -   Use NodeJS and Express for a testing server
--   Use jQuery, JavaScript, and public APIs to fetch JSON data, then
-    use it to refresh part of a web page
-- [My Github User Page](https://amoraesd.github.io/)
+-   Use jQuery, JavaScript, and public APIs to fetch JSON data, then use it to refresh part of a web page
 
 ## 281 Project 2 Learning Outcomes
 
